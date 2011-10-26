@@ -12,4 +12,5 @@ new languages.
 
 ### Data Structures
 
-* 
+* HashMap
+	* JavaScript

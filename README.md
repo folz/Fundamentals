@@ -14,3 +14,5 @@ new languages.
 
 * HashMap
 	* JavaScript
+* BoundedQueue
+	* Javascript
